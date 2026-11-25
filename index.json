@@ -90,12 +90,12 @@
                                      },
                         "versions":  [
                                          {
-                                             "version":  "2.2.0",
-                                             "publishTimestamp":  1795571953,
+                                             "version":  "2.3.0",
+                                             "publishTimestamp":  1795581579,
                                              "source":  {
                                                             "type":  "git",
                                                             "url":  "https://github.com/Railan1314/dsh-plugin-ds-console",
-                                                            "commit":  "587f16142a9c432e05305d6f694876ce7f1f4223"
+                                                            "commit":  "b4507e163447930d68bd6d2eb3631aaf8c1aa0e5"
                                                         },
                                              "engines":  {
                                                              "dsh":  "\u003e=0.2.1-0 \u003c0.3.0"
